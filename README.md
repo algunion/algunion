@@ -9,7 +9,7 @@ I keep a **tinkering mode of practice**: contracting, taking on challenging proj
 - Context-aware agent architectures for adaptive problem-solving  
 - Biomedical text mining, knowledge graphs, and AI-driven curation systems 
 
-[LinkedIn](https://www.linkedin.com/in/mariusfersigan/) · [Email](mailto:marius.fersigan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/marius-fersigan/) · [Email](mailto:marius.fersigan@gmail.com)
 
 <!--
 **algunion/algunion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
